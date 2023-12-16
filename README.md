@@ -5,9 +5,9 @@ journey to understand the key factors influencing home prices in the United Stat
 By leveraging publicly available data and advanced data science techniques, our goal is to build a comprehensive
 model that sheds light on the intricate relationship between various factors and home prices.
 
-- [🔗 Data Cleaning](https://github.com/Akshatidk1/USA_HOUSING_DATA_SCIENCE_MODEL/blob/061ce48c214085b10080c147e03bab7aa00ace8c/Data_Cleaning_LLC.ipynb): Details on data cleaning and preprocessing.
-- [🔗 EDA_and_Feature_Engineering](https://github.com/Akshatidk1/USA_HOUSING_DATA_SCIENCE_MODEL/blob/061ce48c214085b10080c147e03bab7aa00ace8c/EDA_LLC.ipynb): Information about data relations and distributions.
-- [🔗 Model_Training](https://github.com/Akshatidk1/USA_HOUSING_DATA_SCIENCE_MODEL/blob/061ce48c214085b10080c147e03bab7aa00ace8c/model_training_LLC.ipynb): Model Training and Evaluation of features.
+- [🔗 Data Cleaning](https://github.com/Akshatidk1/USA_HOUSING_DATA_SCIENCE_MODEL/blob/6e7391d052c910561826c2e8744f37d8d11a5125/Data_Cleaning_LLC.ipynb): Details on data cleaning and preprocessing.
+- [🔗 EDA_and_Feature_Engineering](https://github.com/Akshatidk1/USA_HOUSING_DATA_SCIENCE_MODEL/blob/6e7391d052c910561826c2e8744f37d8d11a5125/EDA_LLC.ipynb): Information about data relations and distributions.
+- [🔗 Model_Training](https://github.com/Akshatidk1/USA_HOUSING_DATA_SCIENCE_MODEL/blob/6e7391d052c910561826c2e8744f37d8d11a5125/model_training_LLC.ipynb): Model Training and Evaluation of features.
 
 Feel free to explore each section for a deeper understanding of the project.
 
